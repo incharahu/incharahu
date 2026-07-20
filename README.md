@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Inchara HU</h1>
-<h3 align="center">BCA Graduate| Aspiring Software Developer| Python |AI Enthusiast</h3>
+<h3 align="center">BCA Graduate | Aspiring Software Developer | Python | AI Enthusiast</h3>
 
 - 🔭 I’m currently working on **Learning Python and DSA**
 
-- 🌱 I’m currently learning **Python, Fast API, Java & MySQL**
+- 🌱 I’m currently learning **Python and Web Development**
 
 - 👯 I’m looking to collaborate on **Open Source & Web Development Project**
 
 - 🤝 I’m looking for help with **Open Source Contributions**
 
-- 💬 Ask me about **Python, Java, HTML, CSS, Fast API & MySQL**
+- 💬 Ask me about **Python, Java, HTML, CSS and MySQL**
 
 - 📫 How to reach me **umashinchara@gmail.com**
 
