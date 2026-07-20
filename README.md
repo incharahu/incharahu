@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **umashinchara@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1BTRSISWHfkEWylR_jfQ4BRNoz3MSOixZ/edit?usp=drivesdk&ouid=116961670026544127774&rtpof=true&sd=true](https://docs.google.com/document/d/1BTRSISWHfkEWylR_jfQ4BRNoz3MSOixZ/edit?usp=drivesdk&ouid=116961670026544127774&rtpof=true&sd=true)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1BenqLk2VArEBVqvs79imdFJBnlqm3RVj/view?usp=drivesdk](https://drive.google.com/file/d/1BenqLk2VArEBVqvs79imdFJBnlqm3RVj/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
